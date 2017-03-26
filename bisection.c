@@ -9,7 +9,7 @@
 double equationHandler(double x, int equationDegree, ...);
 void bisectionMethod(int iterationNumber, double start, double end, double prevMid, double E, int errorCase);
 
-/*There will be 5 arguments. Unless, you will get an error.*/
+/*There will be 5 arguments. You will get an error if you don't enter 5 arguments.*/
 
 int main(int argc, char* argv[]){
 
